@@ -1,4 +1,4 @@
-# [XRF](https://github.com/xray-forge/stalker-xrf-engine) / BIN
+# [XRF](https://github.com/xray-forge/xrf-engine) / BIN
 
 Binaries and executable utilities needed for development or the game or game modification.
 
@@ -19,4 +19,4 @@ Contains assets needed to build custom modded game package.
 
 ## 📦 Credits
 
-[Link.](https://xray-forge.github.io/stalker-xrf-book/CREDITS.html)
+[Link.](https://xray-forge.github.io/xrf-book/CREDITS.html)
