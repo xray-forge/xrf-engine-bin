@@ -1,4 +1,6 @@
-# [XRF](https://github.com/xray-forge/xrf-engine) / BIN
+<img src="https://xray-forge.github.io/xrf-book/images/xrf-engine-bin-banner%400.5x.png">
+
+# [XRF](https://github.com/xray-forge/xrf-engine) / CLI / BIN
 
 Binaries and executable utilities needed for development or the game or game modification.
 
